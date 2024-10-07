@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 8871cb64f51681c45b1dc5dca307ba16
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Bear_Mama_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bear_Mama_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: uploads_files_949680_Bear_Big(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby_Big
+      parentName: uploads_files_949680_Bear_Big(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Reference
+      parentName: uploads_files_949680_Bear_Big(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Hips
+      parentName: Bear_Mama_Reference
+      position: {x: -0, y: 0.4924531, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftUpLeg
+      parentName: Bear_Mama_Hips
+      position: {x: -0.31417602, y: -0.054005127, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftLeg
+      parentName: Bear_Mama_LeftUpLeg
+      position: {x: -0.019128742, y: -0.23521751, z: 0.038033016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftFoot
+      parentName: Bear_Mama_LeftLeg
+      position: {x: -0, y: -0.16529007, z: -0.06234822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftToeBase
+      parentName: Bear_Mama_LeftFoot
+      position: {x: -0.000000076293944, y: -0.014890403, z: 0.25598904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightUpLeg
+      parentName: Bear_Mama_Hips
+      position: {x: 0.31417602, y: -0.054005127, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightLeg
+      parentName: Bear_Mama_RightUpLeg
+      position: {x: 0.019128742, y: -0.23521751, z: 0.03803302}
+      rotation: {x: -0.0000019334257, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightFoot
+      parentName: Bear_Mama_RightLeg
+      position: {x: -0, y: -0.16529004, z: -0.06234827}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightToeBase
+      parentName: Bear_Mama_RightFoot
+      position: {x: -0.000000076293944, y: -0.014890194, z: 0.25598904}
+      rotation: {x: 0, y: -0.00004189127, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Spine
+      parentName: Bear_Mama_Hips
+      position: {x: -0, y: 0.26295176, z: -0.04302087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Spine1
+      parentName: Bear_Mama_Spine
+      position: {x: -0, y: 0.27500364, z: -0.03898766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Spine2
+      parentName: Bear_Mama_Spine1
+      position: {x: -0, y: 0.27500358, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftShoulder
+      parentName: Bear_Mama_Spine2
+      position: {x: -0.28795004, y: 0.106642604, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftArm
+      parentName: Bear_Mama_LeftShoulder
+      position: {x: -0.107072525, y: 0.000001373291, z: 0}
+      rotation: {x: 0.000000005943749, y: -0.00007279714, z: -0.3398858, w: 0.9404667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftForeArm
+      parentName: Bear_Mama_LeftArm
+      position: {x: -0.24008942, y: -0.2208457, z: 0.000047297133}
+      rotation: {x: 0.00090858416, y: 0.012046386, z: -0.047841843, w: 0.99878186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHand
+      parentName: Bear_Mama_LeftForeArm
+      position: {x: -0.16101322, y: -0.19007799, z: -0.0034956709}
+      rotation: {x: -0.0061380332, y: -0.007245527, z: -0.00009474521, w: 0.99995494}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandIndex1
+      parentName: Bear_Mama_LeftHand
+      position: {x: -0.034242537, y: -0.04940312, z: 0.1063941}
+      rotation: {x: 0, y: -0, z: -0.000025666184, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandIndex2
+      parentName: Bear_Mama_LeftHandIndex1
+      position: {x: -0.032183357, y: -0.026983187, z: 0.004633243}
+      rotation: {x: 0.00000015757409, y: -0.017452406, z: 0.0000038037235, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandMiddle1
+      parentName: Bear_Mama_LeftHand
+      position: {x: -0.08903964, y: -0.08202725, z: 0.023521723}
+      rotation: {x: 0, y: -0, z: -0.000025666184, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandMiddle2
+      parentName: Bear_Mama_LeftHandMiddle1
+      position: {x: -0.03716225, y: -0.031157233, z: 0.003648526}
+      rotation: {x: 1.9952863e-10, y: -0.000031095955, z: 0.000006416546, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandPinky1
+      parentName: Bear_Mama_LeftHand
+      position: {x: -0.056741066, y: -0.08248953, z: -0.07474409}
+      rotation: {x: 0, y: -0, z: -0.000025666184, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftHandPinky2
+      parentName: Bear_Mama_LeftHandPinky1
+      position: {x: -0.023261696, y: -0.01950242, z: 0.0022818616}
+      rotation: {x: 0, y: 0, z: 0.00001446542, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Neck
+      parentName: Bear_Mama_Spine2
+      position: {x: -0, y: 0.18864578, z: 0.07882949}
+      rotation: {x: -0.04575347, y: -0, z: -0, w: 0.9989528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Head
+      parentName: Bear_Mama_Neck
+      position: {x: -0, y: 0.13542312, z: 0.090003066}
+      rotation: {x: -0.0804396, y: 0.70251656, z: -0.0804396, w: 0.70251656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_Jaw
+      parentName: Bear_Mama_Head
+      position: {x: -0.27663004, y: 0.0094658565, z: 0}
+      rotation: {x: 0.12913999, y: -0.6952143, z: 0.12913999, w: 0.6952143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_LeftEye
+      parentName: Bear_Mama_Head
+      position: {x: -0.28445482, y: 0.3444564, z: -0.18204089}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tab_Right
+      parentName: Bear_Mama_LeftEye
+      position: {x: 0.0128, y: -0, z: -0.0014}
+      rotation: {x: -0, y: -0, z: -0.000000014901161, w: 1}
+      scale: {x: 0.089600004, y: 0.09435001, z: 0.0896}
+    - name: Bear_Mama_RightEye
+      parentName: Bear_Mama_Head
+      position: {x: -0.28445, y: 0.34445998, z: 0.18204}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tab_Right
+      parentName: Bear_Mama_RightEye
+      position: {x: 0.0135, y: 0, z: 0.0059}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.0896, y: 0.094348796, z: 0.0896}
+    - name: Bear_Mama_RightShoulder
+      parentName: Bear_Mama_Spine2
+      position: {x: 0.28795, y: 0.10663786, z: 0.000000033477782}
+      rotation: {x: 1, y: 0, z: 0, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character1_RightArm
+      parentName: Bear_Mama_RightShoulder
+      position: {x: 0.107073, y: -0.000010000001, z: 0}
+      rotation: {x: -0.0000000064113888, y: 0.0000000069689334, z: -0.33992222, w: 0.9404536}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightForeArm
+      parentName: Character1_RightArm
+      position: {x: 0.24007683, y: 0.22086692, z: 0}
+      rotation: {x: -0.0024827917, y: 0.0029856837, z: -0.048005015, w: 0.9988396}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHand
+      parentName: Bear_Mama_RightForeArm
+      position: {x: 0.16101268, y: 0.19007619, z: 0.0034957}
+      rotation: {x: 0, y: 0, z: 0.000038499275, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandIndex1
+      parentName: Bear_Mama_RightHand
+      position: {x: 0.034242902, y: 0.04940068, z: -0.1063941}
+      rotation: {x: -0.0016638177, y: 0.0023773396, z: 0.0022617348, w: 0.99999326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandIndex2
+      parentName: Bear_Mama_RightHandIndex1
+      position: {x: 0.032183655, y: 0.026983414, z: -0.0046332}
+      rotation: {x: 0.0000001573227, y: -0.017452406, z: 0.0000038037183, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandMiddle1
+      parentName: Bear_Mama_RightHand
+      position: {x: 0.0651, y: 0.06818999, z: -0.023521699}
+      rotation: {x: -0.009500767, y: 0.012495492, z: 0.009905805, w: 0.9998278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandMiddle2
+      parentName: Bear_Mama_RightHandMiddle1
+      position: {x: 0.0371626, y: 0.031157477, z: -0.0036485998}
+      rotation: {x: 1.9952859e-10, y: -0.000031095955, z: 0.0000064165447, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandPinky1
+      parentName: Bear_Mama_RightHand
+      position: {x: 0.056741174, y: 0.082486816, z: 0.0747438}
+      rotation: {x: -0.00951732, y: 0.012516469, z: 0.009920793, w: 0.9998272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bear_Mama_RightHandPinky2
+      parentName: Bear_Mama_RightHandPinky1
+      position: {x: 0.02326175, y: 0.019502299, z: -0.002282}
+      rotation: {x: 0, y: 0, z: 0.000013075202, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
