@@ -1,5 +1,5 @@
 # The Big Loss 🌌🔎
 ## Instuctions
-¡Prepárate para una experiencia de realidad virtual como nunca antes! Para jugar, solo necesitas un teléfono Android 8.0 o superior con giroscopio, y un Google Cardboard o visor similar para sumergirte por completo. ¡Aventúrate en un mundo virtual increíble desde la palma de tu mano!
-## Enlace del instalador
-¡Ya casi estás listo para vivir la gran aventura! Descarga TheBigLoss_v1.0.apk desde el siguiente enlace: https://drive.google.com/file/d/1gNSyY2VR1nEIat4IAa02GcEXEkNZSUWe/view?usp=sharing
+Get ready for a virtual reality experience like never before! To play, you only need an Android 8.0 or higher phone with a gyroscope, and a Google Cardboard or similar viewer to fully immerse yourself. Venture into an incredible virtual world from the palm of your hand!
+## Installer link
+You're almost ready to live the great adventure! Download TheBigLoss_v1.0.apk from the following link: https://drive.google.com/file/d/1gNSyY2VR1nEIat4IAa02GcEXEkNZSUWe/view?usp=sharing
